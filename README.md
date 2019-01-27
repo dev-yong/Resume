@@ -80,7 +80,7 @@ United Merchant Services.Inc의 Ticketing을 위한 Inhouse Application
 
 - [Github Repository](https://github.com/LeeGwangYong/Diary)
 
-## POP Translator
+### POP Translator
 
 macOS 메뉴바에서 바로 POPOver로 바로 사용할 수 있는 번역기 앱.
 
@@ -95,7 +95,7 @@ macOS 메뉴바에서 바로 POPOver로 바로 사용할 수 있는 번역기 �
 
 - 관련 기술 : `macOS`, `Swift`, `WebKit`, `EventMonitor`, `ServiceManagement`, `NSStatusBar`, `NSPopover`, `NSNotification`
 
-[Github Repository](https://github.com/LeeGwangYong/POP-Translator)
+- [Github Repository](https://github.com/LeeGwangYong/POP-Translator)
 
 ## 활동 내역
 
