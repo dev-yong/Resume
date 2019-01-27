@@ -70,7 +70,7 @@ United Merchant Services.Inc의 Ticketing을 위한 Inhouse Application
 >
 > 로컬에서만 사용가능한 버전으로 리뉴얼 예정 중
 
-- 기간 : 2017.2 ~ 2018.3
+- 기간 : 2017.12 ~ 2018.3
 
 - 역할
   - iOS 기능 개발 (70%)
@@ -103,7 +103,7 @@ macOS 메뉴바에서 POPOver로 사용할 수 있는 번역기 앱.
 
 - 2018.5
 - NAVER에서 진행한 해커톤으로, Gesture을 이용하여 볼륨, 밝기, 영상 위치 등을 컨트롤하는 iOS Gesture Player를 구현하였습니다. 
-- [Github Repository]((https://github.com/LeeGwangYong/iOS-GesturePlayer))
+- [Github Repository](https://github.com/LeeGwangYong/iOS-GesturePlayer)
 
 #### [Super Challenge Hackathon](https://www.jobaba.net/evtIfo/dtl.do?seq=7202&sn=3)
 
