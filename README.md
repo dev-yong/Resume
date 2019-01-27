@@ -82,7 +82,7 @@ United Merchant Services.Inc의 Ticketing을 위한 Inhouse Application
 
 ### POP Translator
 
-macOS 메뉴바에서 바로 POPOver로 바로 사용할 수 있는 번역기 앱.
+macOS 메뉴바에서 POPOver로 사용할 수 있는 번역기 앱.
 
 > Papago를 애용하는데, 빠르게 사용할 수 있는 툴이 없어 직접 만들었습니다.
 >
