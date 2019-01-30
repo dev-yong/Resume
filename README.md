@@ -34,6 +34,18 @@ iOS, Swift, Sketch, Github
 
 ## 프로젝트
 
+### POP Translator
+
+macOS 메뉴바에서 POPOver로 사용할 수 있는 번역기 앱.
+
+> Papago를 애용하는데, 빠르게 사용할 수 있는 툴이 없어 직접 만들었습니다.
+
+- 기간 : 2019.01
+- 역할 
+  - `NSStatusBar`, `NSPopover`와 `WKWebView`를  활용
+- 관련 기술 : `macOS`, `Swift`, `WebKit`, `EventMonitor`, `ServiceManagement`, `NSStatusBar`, `NSPopover`, `NSNotification`
+- [Github Repository](https://github.com/LeeGwangYong/POP-Translator)
+
 ### [UMS Ticketing](https://itunes.apple.com/us/app/ums-employee/id1450179576?mt=8) 
 
 United Merchant Services.Inc의 Ticketing을 위한 Inhouse Application
@@ -46,7 +58,7 @@ United Merchant Services.Inc의 Ticketing을 위한 Inhouse Application
   - Documentation 정리
   - Chaining Request 구현 도중, Nested Closure 문제 해결을 위하여 `PromiseKit`을 사용.
 
-- 관련 기술 : `iOS`, `Swift`, `PromiseKit`, `SVN`, `Realm`, `UserDefaults` , `Delegate Pattern`,  `ObjectMapper`
+- 관련 기술 : `iOS`, `Swift`, `PromiseKit`, `SVN`, `Realm`, `UserDefaults` , `Delegate Pattern`,  `ObjectMapper`, 
 
 ### iOS Gesture Player
 
@@ -79,23 +91,6 @@ United Merchant Services.Inc의 Ticketing을 위한 Inhouse Application
 - 관련 기술 : `iOS`, `Swift`, `Realm`, `Lottie`, `Alamofire`,  `ObjectMapper`, `Delegate Pattern`
 
 - [Github Repository](https://github.com/LeeGwangYong/Diary)
-
-### POP Translator
-
-macOS 메뉴바에서 POPOver로 사용할 수 있는 번역기 앱.
-
-> Papago를 애용하는데, 빠르게 사용할 수 있는 툴이 없어 직접 만들었습니다.
->
-> To Do : 전역적으로 사용가능한 HotKey 구현
-
-- 기간 : 2019.01 ~ 
-
-- 역할 
-  - `NSStatusBar`, `NSPopover`와 `WKWebView`를  활용
-
-- 관련 기술 : `macOS`, `Swift`, `WebKit`, `EventMonitor`, `ServiceManagement`, `NSStatusBar`, `NSPopover`, `NSNotification`
-
-- [Github Repository](https://github.com/LeeGwangYong/POP-Translator)
 
 ## 활동 내역
 
