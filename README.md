@@ -57,8 +57,9 @@ United Merchant Services.Inc의 Ticketing을 위한 Inhouse Application
   - iOS 기능 개발
   - Documentation 정리
   - Chaining Request 구현 도중, Nested Closure 문제 해결을 위하여 `PromiseKit`을 사용.
+  - Scheme, Build Config, Target을 수정하여 DEV, QA, LIVE 등 각 Environment에 맞게끔 함.
 
-- 관련 기술 : `iOS`, `Swift`, `PromiseKit`, `SVN`, `Realm`, `UserDefaults` , `Delegate Pattern`,  `ObjectMapper`, 
+- 관련 기술 : `iOS`, `Swift`, `PromiseKit`, `SVN`, `Realm`, `UserDefaults` , `Delegate Pattern`,  `ObjectMapper`, `Scheme`, `Build Config`, `Target`
 
 ### iOS Gesture Player
 
