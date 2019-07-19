@@ -4,7 +4,7 @@ iOS Developer
 
 현재 미국에서 iOS 개발을 하고 있습니다.
 
-- 취미 : 카페에서 개발하기, 크로스핏, 디자인 공부
+- 취미 : 카페에서 개발하기
 
 - Email : rhkdrmfh@gmail.com
 - Github : https://github.com/LeeGwangYong
@@ -37,8 +37,6 @@ iOS, Swift, Sketch, Github
 ### POP Translator
 
 macOS 메뉴바에서 POPOver로 사용할 수 있는 번역기 앱.
-
-> Papago를 애용하는데, 빠르게 사용할 수 있는 툴이 없어 직접 만들었습니다.
 
 - 기간 : 2019.01
 - 역할 
