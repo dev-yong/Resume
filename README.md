@@ -23,7 +23,7 @@ iOS, Swift, Sketch, Github
 
 #### [United Merchant Services.Inc ](http://www.unitedmerchant.com)
 
-  - 2018.9 ~ 
+  - 2018.09 ~ 2019.08
   - Internship
   - Inhouse Ticketing Application 개발
 
