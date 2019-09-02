@@ -3,7 +3,6 @@
 iOS Developer
 
 - 취미 : 카페에서 개발하기
-
 - Email : rhkdrmfh@gmail.com
 - Github : https://github.com/LeeGwangYong
 - LinkedIn: https://www.linkedin.com/in/gwangyong-lee-51a5b2169
@@ -31,6 +30,21 @@ iOS, Swift, Sketch, Github
   - Prototype iOS Application 개발
 
 ## 프로젝트
+
+### EPIPAY STORE
+
+개별 음식점을 위한 Application으로, 해당 음식점의 상세 정보, 메뉴, 주문, 쿠폰 관리 및 사용, 포인트와 기프트 카드의 관리 및 사용의 기능들을 제공.
+
+- 기간 : 2019.05 ~ 2019.08
+- 역할
+  - iOS 기능 개발
+  - Documentation 정리
+  - 동일한 형식의 UI를 이용하여, 여러 Store의 배포를 위해 Configuration을 수정
+  - Android, WEB 등의 다른 Platform의 개발에 대한 고려를 위하여 Clean Architectur의 도입을 시도.
+    - Domain, Platform, Application의 계층을 나누어 각 계층의 Boundary에 대하여 Protocol을 이용한 데이터의 흐름을 유도함.
+    - Application 계층은 RxSwift를 적용한 MVVM 패턴을 사용.
+
+- 관련 기술 : iOS, RxSwift, MVVM, Realm, Scheme, Build Config
 
 ### POP Translator
 
