@@ -13,10 +13,14 @@ iOS, Swift, Sketch, Github
 
 ## 학력
 
-- 인하대학교 컴퓨터 공학과 졸업예정 (2013.3 ~ 2020.03)
+- 인하대학교 컴퓨터 공학과 졸업 (2013.3 ~ 2020.03)
 - 숭덕고등학교 (2010 ~ 2012)
 
 ## 경력
+
+#### [Kakao Corp.](https://www.kakaocorp.com)
+
+  - 2020.03 ~
 
 #### [United Merchant Services.Inc ](http://www.unitedmerchant.com)
 
