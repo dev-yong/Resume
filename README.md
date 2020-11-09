@@ -20,7 +20,7 @@ iOS, Swift, Sketch, Github
 
 #### [Kakao Corp.](https://www.kakaocorp.com)
 
-  - 2020.03 ~
+  - 2019.12
 
 #### [United Merchant Services.Inc ](http://www.unitedmerchant.com)
 
