@@ -4,7 +4,7 @@ iOS Developer
 
 - 취미 : 카페에서 개발하기
 - Email : rhkdrmfh@gmail.com
-- Github : https://github.com/LeeGwangYong
+- Github : https://github.com/dev-yong
 - LinkedIn: https://www.linkedin.com/in/gwangyong-lee-51a5b2169
 
 ## 보유 기술
