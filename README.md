@@ -18,9 +18,14 @@ iOS, Swift, Sketch, Github
 
 ## 경력
 
+#### [Viva Republica (TOSS)](https://toss.im/)
+
+  - 2021.06 ~
+
+
 #### [Kakao Corp.](https://www.kakaocorp.com)
 
-  - 2019.12 ~
+  - 2019.12 ~ 2021.06
 
 #### [United Merchant Services.Inc ](http://www.unitedmerchant.com)
 
